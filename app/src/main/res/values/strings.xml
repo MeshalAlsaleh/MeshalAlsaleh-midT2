@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeshalAlsaleh-midT2</string>
+    <string name="nameID">Meshal Alsaleh 180092</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="number">Phone Number</string>
+</resources>
